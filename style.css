@@ -12,8 +12,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-
-.report_container{
+.container{
     width: 100%;
     height: 100vh;
     color: #ffffff;
@@ -101,7 +100,7 @@ main.table {
     box-shadow: 0 .1rem .4rem #0002;
 }
 
-.table__header .input-group img {
+.table__header .input-group img ,form img{
     width: 1.2rem;
     height: 1.2rem;
 }
