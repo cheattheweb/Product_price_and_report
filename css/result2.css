@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background: #6fcaea;
+}
+form{
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 30%;
+    border-radius: 10px;
+    margin: 10vw auto;
+
+}
